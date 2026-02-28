@@ -1,1 +1,0 @@
-# ffrent-app.vercel.app
